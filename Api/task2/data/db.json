@@ -1,0 +1,47 @@
+{
+  "class": [
+    {
+      "id": 1,
+      "class_no": "10th"
+    },
+    {
+      "id": 2,
+      "class_no": "12th"
+    },
+    {
+      "id": 3,
+      "class_no": "11th"
+    }
+  ],
+  "subject": [
+    {
+      "id": 1,
+      "subject_name": "maths"
+    },
+    {
+      "id": 2,
+      "subject_name": "hindi"
+    },
+    {
+      "id": 3,
+      "subject_name": "english"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "kapil"
+    },
+    {
+      "id": 2,
+      "name": "amit"
+    },
+    {
+      "id": 3,
+      "name": "abhi"
+    },
+    {
+      "id": 4
+    }
+  ]
+}
