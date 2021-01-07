@@ -1,0 +1,56 @@
+{
+  "class": [
+    {
+      "classId":1,
+      "id": 1,
+      "name": "10th"
+    },
+    {
+      "classId":2,
+      "id": 2,
+      "name": "11th"
+    },
+    {
+      "classId":3,
+      "id": 3,
+      "name": "11th"
+    }
+  ],
+  "subject": [
+    {
+      "id": 1,
+      "name": "maths",
+      "classId": 1
+    },
+    {
+      "id": 2,
+      "name": "english",
+      "classId": 1
+    },
+    {
+      "id": 3,
+      "name": "science",
+      "classId": 2
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "kapil",
+      "email": "kapil@gmail.com",
+      "classId": 1
+    },
+    {
+      "classId": 1,
+      "name": "Sumit",
+      "email": "sumit@gmail.com",
+      "id": 2
+    },
+    {
+      "classId": 1,
+      "name": "Amit",
+      "email": "amit@gmail.com",
+      "id": 3
+    }
+  ]
+}
